@@ -1,2 +1,2 @@
-# CCPC-ICPC
+# COMPETITION TEST
 为竞赛而生
